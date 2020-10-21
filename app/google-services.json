@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "888539998860",
+    "firebase_url": "https://aplikasi-absen-karyawan.firebaseio.com",
+    "project_id": "aplikasi-absen-karyawan",
+    "storage_bucket": "aplikasi-absen-karyawan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888539998860:android:8a939494cef118bf73e9a9",
+        "android_client_info": {
+          "package_name": "com.dedirosandi.absensikaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888539998860-0voertov9fkpb92gg6ihti90b4u9lnkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo76WjgEl1amHcVAOa859uFq3IEo4ra84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888539998860-0voertov9fkpb92gg6ihti90b4u9lnkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888539998860:android:9217c13a6a7796d873e9a9",
+        "android_client_info": {
+          "package_name": "com.dedirosandi.aplikasiabsensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888539998860-0voertov9fkpb92gg6ihti90b4u9lnkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo76WjgEl1amHcVAOa859uFq3IEo4ra84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888539998860-0voertov9fkpb92gg6ihti90b4u9lnkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888539998860:android:18906edbe390120073e9a9",
+        "android_client_info": {
+          "package_name": "com.dedirosandi.aplikasiabsensikaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888539998860-02e4pikqf4k21mgghi9qhtel8eh22jce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dedirosandi.aplikasiabsensikaryawan",
+            "certificate_hash": "f70900937db42e1428bcab4ceb241221b63e93a1"
+          }
+        },
+        {
+          "client_id": "888539998860-0voertov9fkpb92gg6ihti90b4u9lnkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo76WjgEl1amHcVAOa859uFq3IEo4ra84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888539998860-0voertov9fkpb92gg6ihti90b4u9lnkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888539998860:android:c2f7f9d0166485bf73e9a9",
+        "android_client_info": {
+          "package_name": "com.dedirosandi.demologin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888539998860-0voertov9fkpb92gg6ihti90b4u9lnkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo76WjgEl1amHcVAOa859uFq3IEo4ra84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888539998860-0voertov9fkpb92gg6ihti90b4u9lnkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
